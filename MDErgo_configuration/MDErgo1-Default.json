@@ -255,6 +255,10 @@
                 "0": {
                     "key": "F",
                     "label": "F"
+                },
+                "1": {
+                    "key": "#:')'",
+                    "label": ")"
                 }
             }
         },
@@ -268,6 +272,10 @@
                 "0": {
                     "key": "D",
                     "label": "D"
+                },
+                "1": {
+                    "key": "#:'('",
+                    "label": "("
                 }
             }
         },
@@ -580,8 +588,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "LALT",
+                    "label": "LALT"
                 },
                 "1": {
                     "key": "DOWN",
@@ -601,8 +609,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "BACKTICK",
+                    "label": "`"
                 },
                 "1": {
                     "key": "LEFT",
