@@ -242,6 +242,10 @@
                 "0": {
                     "key": "G",
                     "label": "G"
+                },
+                "1": {
+                    "key": "EQUAL",
+                    "label": "="
                 }
             }
         },
@@ -1180,6 +1184,10 @@
                 "1": {
                     "key": "END",
                     "label": "END"
+                },
+                "2": {
+                    "key": "CONS:CALCULATOR",
+                    "label": "CALC"
                 }
             }
         },
@@ -1199,8 +1207,8 @@
                     "label": "\u21b5"
                 },
                 "2": {
-                    "key": "CONS:CALCULATOR",
-                    "label": "CALC"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             }
         },
