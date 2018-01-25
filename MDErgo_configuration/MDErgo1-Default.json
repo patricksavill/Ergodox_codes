@@ -9,6 +9,9 @@
         "Date": "2015-09-12",
         "Generator": "KIICONF 0.2"
     },
+    "defines": [
+
+    ],
     "matrix": [
         {
             "code": "0x02",
@@ -20,6 +23,10 @@
                 "0": {
                     "key": "EQUAL",
                     "label": "="
+                },
+                "2": {
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 }
             }
         },
@@ -124,8 +131,8 @@
                     "label": "~"
                 },
                 "2": {
-                    "key": "#:flashMode()",
-                    "label": "FLASH"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -227,8 +234,8 @@
                     "label": "VOL+"
                 },
                 "2": {
-                    "key": "#:ledControl( 4, 15, 0 )",
-                    "label": "LED+"
+                    "key": "TAB",
+                    "label": "TAB"
                 }
             }
         },
@@ -333,8 +340,8 @@
                     "label": "VOL-"
                 },
                 "2": {
-                    "key": "#:ledControl( 3, 15, 0 )",
-                    "label": "LED-"
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             }
         },
